@@ -1,3 +1,7 @@
 .wrapper {
     background-color: rgb(0, 71, 99);
 }
+
+.canvas {
+    background-color: rgba(0, 73, 184, 0.8);
+}
