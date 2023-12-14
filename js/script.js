@@ -12,4 +12,4 @@ createApp({
             this.diskList = resp.data;
         });
     },
-})
+}).mount("#app");
